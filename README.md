@@ -1,4 +1,4 @@
-# -Multiple-Linear-Regression_-Machine-Learning-
+# Multiple-Linear-Regression_-Machine-Learning
 
 # Exercise 1 
 Use the attached dataset “HousePrice.csv” to predict the sale price of a house. Separate 30 % of the data (randomly) into a test dataset and leave the rest 70 % of the data into a train dataset. Then use the train dataset to build a linear regression model with the living area as your input variable. Report the accuracy of your model with the following indicators:
