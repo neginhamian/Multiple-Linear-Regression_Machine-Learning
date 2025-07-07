@@ -30,3 +30,5 @@ The attached dataset roasting_data.csv shows the following measurements for each
 • quality of the end product
 
 Train a linear regression model, which predicts the end product quality based on the sensor measurements. Report the mean absolute errors in both train and test data. Also report which temperature sensors have the most impact on the quality. Use a random split of 70 % - 30 % between the train and test data.
+
+![](ex4.png)
