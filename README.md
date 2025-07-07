@@ -13,7 +13,7 @@ Use the attached dataset “HousePrice.csv” to predict the sale price of a hou
 Repeat the previous exercise, but add the following variables to your input variables:
 
 * Lot area, Year of building, House style
-* 
+  
 Report also the relative importance of each input variable measured by the regression coefficient.
 
 (NOTE: Comparing regression coefficients is valid only if your input variables are scaled.)
