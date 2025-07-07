@@ -15,13 +15,13 @@ Report also the relative importance of each input variable measured by the regre
 (NOTE: Comparing regression coefficients is valid only if your input variables are scaled.)
 
 
-# Exercise 3. 
+# Exercise 3
 Repeat the previous exercise, but add the following variable to your input variables:
 • Neighborhood
 (HINT: Since this is a classification variable, you must create a binary “dummy” variable for each neighborhood. The collection of these dummy variables is also called the “one-hot” form of the Neighborhood variable.)
 
 
-# Exercise 4. 
+# Exercise 4
 The attached dataset roasting_data.csv shows the following measurements for each time step in a roasting process:
 • sensor readings from 15 temperature sensors
 • sensor readings from a humidity sensor
