@@ -7,6 +7,7 @@ Use the attached dataset “HousePrice.csv” to predict the sale price of a hou
 • R2 score for both train and test datasets
 • Plots for both train and test datasets
 
+![Exercise 1 picture](ex 1.png)
 
 # Exercise 2 
 Repeat the previous exercise, but add the following variables to your input variables:
